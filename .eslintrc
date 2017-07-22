@@ -1,0 +1,14 @@
+{
+  "extends" : "airbnb",
+  "rules": {
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    "class-methods-use-this": ["error", { "exceptMethods": ["foo"] }],
+    "no-constant-condition": ["error", { "checkLoops": false }],
+  },
+  
+  "env": {
+    "browser": true,
+    "node": true,
+    "mocha": true
+  }
+}

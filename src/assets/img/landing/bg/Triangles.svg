@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1424px" height="814px" viewBox="0 0 1424 814" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>Triangles</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="98.2713111%" gradientTransform="translate(0.500000,0.000000),scale(1.000000,0.313616),rotate(90.000000),translate(-0.500000,-0.000000)" id="radialGradient-1">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#F7FFFE" stop-opacity="0.0147507645" offset="39.5539355%"></stop>
+            <stop stop-color="#8AA0EB" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="98.2713111%" gradientTransform="translate(0.500000,0.000000),scale(1.000000,0.940401),rotate(90.000000),translate(-0.500000,-0.000000)" id="radialGradient-2">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#F7FFFE" stop-opacity="0.0147507645" offset="39.5539355%"></stop>
+            <stop stop-color="#8AA0EB" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="98.2713111%" gradientTransform="translate(0.500000,0.000000),scale(1.000000,0.523338),rotate(90.000000),translate(-0.500000,-0.000000)" id="radialGradient-3">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#F7FFFE" stop-opacity="0.0147507645" offset="39.5539355%"></stop>
+            <stop stop-color="#8AA0EB" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="98.2713111%" gradientTransform="translate(0.500000,0.000000),scale(0.865622,1.000000),rotate(90.000000),translate(-0.500000,-0.000000)" id="radialGradient-4">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#F7FFFE" stop-opacity="0.0147507645" offset="39.5539355%"></stop>
+            <stop stop-color="#8AA0EB" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.319999993">
+        <g id="Desktop-HD" transform="translate(-16.000000, -548.000000)">
+            <g id="Main" transform="translate(-25.000000, -330.000000)">
+                <g id="BG">
+                    <g id="Triangles" transform="translate(887.500000, 1274.000000) scale(1, -1) translate(-887.500000, -1274.000000) translate(0.000000, 856.000000)">
+                        <polygon id="Triangle" fill="url(#radialGradient-1)" transform="translate(1502.514688, 417.663946) rotate(-235.000000) translate(-1502.514688, -417.663946) " points="1502.51469 145.037639 1588.01469 690.290252 1417.01469 690.290252"></polygon>
+                        <polygon id="Triangle-Copy" fill="url(#radialGradient-1)" transform="translate(1350.487640, 548.417035) rotate(-176.000000) translate(-1350.487640, -548.417035) " points="1350.48764 275.790729 1435.98764 821.043342 1264.98764 821.043342"></polygon>
+                        <polygon id="Triangle-Copy-2" fill="url(#radialGradient-2)" transform="translate(297.216563, 468.752534) rotate(-176.000000) translate(-297.216563, -468.752534) " points="297.216563 174.406821 574.019541 763.098247 20.4135843 763.098247"></polygon>
+                        <polygon id="Triangle-Copy-3" fill="url(#radialGradient-3)" transform="translate(519.778670, 387.923592) rotate(-176.000000) translate(-519.778670, -387.923592) " points="519.77867 242.701918 595.77867 533.145267 443.77867 533.145267"></polygon>
+                        <polygon id="Triangle-Copy-3" fill="url(#radialGradient-4)" transform="translate(998.355195, 417.901984) rotate(195.000000) translate(-998.355195, -417.901984) " points="998.355195 87.9150528 1379.56879 747.888914 617.141605 747.888914"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

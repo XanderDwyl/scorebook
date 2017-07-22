@@ -1,0 +1,28 @@
+0.0.0.0
+
+browse
+root build
+
+rewrite / {
+  r ^/(\w+)?$
+  to /
+}
+
+rewrite /dashboard {
+  r ^/(.*)(?:\/(\w+))?$
+  to /
+}
+
+rewrite /verify {
+  r ^/(\w+)/(\w+)?$
+  to /
+}
+
+rewrite /resetpw {
+  r ^/(\w+)/(\w+)?$
+  to /
+}
+
+log stdout
+
+errors stdout

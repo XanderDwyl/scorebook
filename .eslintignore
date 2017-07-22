@@ -1,0 +1,5 @@
+build
+node_modules
+src/app/__tests__/*.*
+src/app/i18n/*.*
+*.yml

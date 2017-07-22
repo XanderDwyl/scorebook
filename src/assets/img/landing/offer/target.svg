@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="53px" height="61px" viewBox="0 0 53 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>target icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,35 L10,4 L39,26 L45,53 L22,57 L0,35 Z M30.5,48 C32.9852814,48 35,45.0898509 35,41.5 C35,37.9101491 32.9852814,35 30.5,35 C28.0147186,35 26,37.9101491 26,41.5 C26,45.0898509 28.0147186,48 30.5,48 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-128.000000, -2141.000000)">
+            <g id="Offer" transform="translate(0.000000, 1728.000000)">
+                <g id="02" transform="translate(128.000000, 407.000000)">
+                    <g id="target-icon" transform="translate(0.000000, 7.000000)">
+                        <polyline id="Path-3" stroke="#555655" stroke-width="2" points="16.4990234 5.75 18.2490234 0.75 46.2490234 21.25 50.4990234 45.25 45.9990234 46.5"></polyline>
+                        <path d="M14.5,17.5 L8.5,35.5" id="Line" stroke="#555655" stroke-width="2" stroke-linecap="square"></path>
+                        <path d="M18.5,20.5 L12.5,38.5" id="Line-Copy-11" stroke="#555655" stroke-width="2" stroke-linecap="square"></path>
+                        <path d="M30.5,41.5 L51.5,58.5" id="Line" stroke="#555655" stroke-width="2" stroke-linecap="square"></path>
+                        <g id="Combined-Shape">
+                            <use fill="#F3ABAB" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <path stroke="#555655" stroke-width="2" d="M1.13939343,34.7251799 L10.5188663,5.64881405 L38.1033839,26.5749998 L43.7965582,52.194284 L22.3400621,55.9258485 L1.13939343,34.7251799 Z M30.5,49 C33.6326033,49 36,45.5804269 36,41.5 C36,37.4195731 33.6326033,34 30.5,34 C27.3673967,34 25,37.4195731 25,41.5 C25,45.5804269 27.3673967,49 30.5,49 Z"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

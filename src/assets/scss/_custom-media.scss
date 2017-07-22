@@ -1,0 +1,172 @@
+@media (max-width: 991px) {
+  .sidebar {
+    & > nav.sidebar-nav {
+      & > ul.nav {
+        & > .nav-item.nav-dropdown.open.nav-bar-background {
+          margin-right: 1px;
+        }
+      }
+    }
+  }
+
+  .plan-wrapper {
+    margin: 0 !important;
+
+    & > .col-sm-12 {
+      padding: 0;
+    }
+  }
+
+}
+
+@media (min-width: 768px) {
+  .settings-wrapper {
+    .save-filter {
+      width: auto;
+    }
+  }
+  .filter-title {
+    text-align: right;
+    margin-left: 0;
+  }
+}
+
+@media (min-width: 576px) {
+  .card-block.auth-form {
+    padding: 30px 35px;
+  }
+  .col-sm-6.move-right {
+    text-align: right;
+  }
+  .access-wrapper {
+    padding: 1rem;
+
+    & > .card {
+      & .card-block {
+        & > .icons-list {
+          & > li {
+            & > .email {
+              &.ellipse {
+                overflow: visible;
+                max-width: 100%;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .loader-backdrop {
+    position: absolute;
+    z-index: 1;
+    background-color: #423e3e;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    opacity: 0.7;
+    display: block;
+
+    & > div {
+      width: 100%;
+      margin-top: 15%;
+    }
+  }
+}
+
+@media only screen
+  and (max-device-width : 320px)
+  and (orientation : portrait) {
+
+  .user-details-page {
+    & > div {
+      &.col-sm-12 {
+        padding: 0 10px;
+      }
+      & > .card {
+        margin-bottom: 10px;
+
+        & > .card-block {
+          padding: 0;
+
+          & > .nav-tabs {
+            & > .nav-item {
+              &:first-child {
+                margin-left: 10px;
+              }
+
+              & > .nav-link {
+                padding: 10px 8px;
+              }
+            }
+          }
+
+          .access-wrapper, .settings-wrapper, .logs-wrapper {
+            border: 0;
+          }
+          .settings-wrapper {
+            & > .card-block {
+              padding: 15px 10px;
+              overflow: hidden;
+
+              .heading {
+                font-size: 18px;
+                line-height: 30px;
+              }
+            }
+          }
+
+          .access-wrapper {
+            & > .card {
+              & .card-block {
+                & > .icons-list {
+                  & > li {
+                    & > .role {
+                      width: 60px;
+                    }
+                    & > .email {
+                      &.ellipse {
+                        max-width: 160px;
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+
+        }
+      }
+    }
+  }
+}
+@media only screen and(max-width: 576px) {
+  .settings-media {
+    display: block !important;
+    margin: 10px 0 !important;
+    & > div {
+      margin-right: 0 !important;
+    }
+  }
+
+  .row {
+    & > div {
+    & > .settings-image {
+        margin-left: 38%;
+      }
+    & > .settings-username  {
+        margin: 0 auto;
+        width: 100%;
+        text-align: center;
+        display: inline-block;
+      }
+    & > .settings-description  {
+        margin-left: 0;
+        text-align: center;
+        & > .progress {
+          max-width: 100% !important;
+        }
+      }
+    }
+  }
+}
